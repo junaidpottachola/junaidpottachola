@@ -67,4 +67,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-pottachola/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junaidpottachola@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-1F3A5F?style=flat-square&labelColor=0F172A&logo=githubpages&logoColor=white)](https://junaidpottachola.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-junaidpottachola.github.io-1F3A5F?style=flat-square&labelColor=0F172A&logo=githubpages&logoColor=white)](https://junaidpottachola.github.io)
